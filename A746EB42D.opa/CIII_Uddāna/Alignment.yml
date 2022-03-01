@@ -1,0 +1,18 @@
+segment_sources:
+  P9FF403FA:
+    type: origin_type
+    relation: translation
+    language: sa
+  P7AD3904D:
+    type: origin_type
+    relation: translation
+    language: bo
+  PAB5CA75E:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  cf98e2763cf64f1eb65dd69e9740147a:
+    P9FF403FA: 65c384aa1cd340418c59b279858f8f99
+    P7AD3904D: fb9f0668780242d58e88561d1a077b87
+    PAB5CA75E: f66b745cb56b487d95a9078c0be1bf73
